@@ -9,7 +9,7 @@ body{
     }
 header{
     height:90px;
-    background-color:#1fab89;
+    background-color:rgba(34, 49, 52, 0.9);
     border-bottom:1px solid #CCCCCC;
 }
 .header-left{
@@ -27,7 +27,6 @@ header h1{
     color:white;
     margin-top:22px;
     margin-left:4px;
-    font-family:Raleway;
 }
 .top{
     height:300px;
