@@ -1,0 +1,39 @@
+.main{
+    height:1300px;
+    background-color:#F8F9F9;
+}
+.description{
+    padding:100px 140px;
+}
+.description p{
+    font-family:Open Sans;
+    width:100%;
+    text-align:center;
+    line-height:40px;
+}
+.pic{
+    margin:0 30px;
+}
+.home-card{
+    width:50%;
+    float:left;   
+}
+.menu-card-inner{
+    padding:20px 10px;
+    text-align:center;
+}
+.home-card img{
+    width:100%;
+}
+.home-menu-title{
+    text-decoration:none;
+    color:black;
+    font-weight:600;
+    display:inline-block;
+    margin-top:13px;
+    font-size:17px;
+}
+.home-menu-title:hover{
+    text-decoration:underline;
+    color:#777777;
+}
