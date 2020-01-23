@@ -12,22 +12,21 @@ header{
     background-color:rgba(34, 49, 52, 0.9);
     border-bottom:1px solid #CCCCCC;
 }
-.header-left{
+.header-left{ 
     display:flex;
 }
 .header-logo{
-    height:65px;
-    width:65px;
-    display:inline-block;
-    margin-top:12.5px;
-    margin-left:15px;
-    border-radius:50%;
-}
-header h1{
     color:white;
-    margin-top:22px;
+    font-size:50px;
+    font-family:'Alegreya Sans SC', sans-serif;
+    margin:18px 10px 0 10px;
+
+}
+.header-title{
+    color:white;
+    margin-top:35px;
     margin-left:4px;
-    font-family:Raleway,sans-serif;
+    font-family:'Alegreya Sans SC', sans-serif;
     font-size:25px;
 }
 .top{
