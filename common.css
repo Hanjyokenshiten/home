@@ -34,7 +34,7 @@ header{
 }
 .navi{
     height:55px;
-    background-color:#62d2a2;
+    background-color:rgba(34, 49, 52, 0.9);
     display:inline-block;
     width:100%;
     display:flex;
