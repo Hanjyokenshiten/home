@@ -54,7 +54,7 @@ header{
     width:20%;
 }
 .menu:hover{
-        background-color:(73,104,110,0.9;)
+        background-color:rgba(73,104,110,0.9;)
         transition:background-color 0.5s;
     }
 .menu a{
