@@ -25,6 +25,9 @@
 .home-card img{
     width:100%;
 }
+.home-card img:hover{
+    opacity:0.5;
+}
 .home-menu-title{
     text-decoration:none;
     color:black;
