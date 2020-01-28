@@ -68,7 +68,7 @@ header{
     border-left:none;
 }
 footer{
-    background-color:#d7fbe8;
+    background-color:rgba(34,49,52,0.9);
     height:90px;
 }
 footer p{
@@ -76,4 +76,5 @@ footer p{
     height:90px;
     line-height:90px;
     text-align:center;
+    color:#F8F9F9;
 }
