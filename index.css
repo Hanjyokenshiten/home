@@ -46,7 +46,8 @@
 }
 .home-card{
     width:50%;
-    float:left;   
+    float:left;
+    margin-top:10px;
 }
 .menu-card-inner{
     padding:20px 10px;
