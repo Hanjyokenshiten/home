@@ -19,9 +19,7 @@
 }
 .introduction img{
     display:block;
-    height:100px;
-    width:100px;
-    object-fit: cover;
+    width:10%;
     margin-left:auto;
     margin-right:auto;
     border-radius:50%;
