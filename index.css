@@ -4,7 +4,9 @@
     color:#333;
 }
 .description{
-    padding:100px 140px;
+    padding:100px 0;
+    width:80%;
+    margin:0 auto 0 auto;
 }
 .description p{
     font-family:Open Sans;
