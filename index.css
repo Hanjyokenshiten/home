@@ -33,6 +33,7 @@ li{
 .introduction img{
     display:block;
     width:12%;
+    object-fit:cover;
     margin-left:auto;
     margin-right:auto;
     border-radius:50%;
@@ -68,6 +69,8 @@ li{
 }
 .home-card img{
     width:100%;
+    object-fit:cover;
+    height:286px;
 }
 .img-fir{
     height:286px;
