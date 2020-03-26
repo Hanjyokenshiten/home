@@ -8,6 +8,12 @@
     background-color:#F8F9F9;
     color:#333;
 }
+.container p{
+    font-size:18px;
+}
+li{
+    font-size:18px;
+}
 .description{
     padding:100px 0;
     width:80%;
