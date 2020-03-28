@@ -5,12 +5,10 @@
 	}
 	.description p{
 		font-size: 30px;
+		line-height: 42px;
 	}
 	.menu a{
 		line-height: 80px;
-		font-size: 30px;
-	}
-	body{
-		
+		font-size: 26px;
 	}
 }
