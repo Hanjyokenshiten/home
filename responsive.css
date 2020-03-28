@@ -3,26 +3,4 @@
 	.navi, .menu{
 		height:80px ;
 	}
-	.description p{
-		font-size: 30px;
-		line-height: 42px;
-	}
-	.menu a{
-		line-height: 80px;
-		font-size: 26px;
-	}
-	.home-menu-title{
-		font-size: 26px;
-	}
-	li{
-		font-size: 24px;
-	}
-	}
-	h3{
-		font-size: 28px;
-	}
-	.introduction img{
-		width:120px;
-		height: 120px;
-	}
 }
