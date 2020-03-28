@@ -7,11 +7,26 @@
 		line-height: 80px;
 		font-size: 26px;
 	}
-	.description p{
-		font-size: 30px;
-		line-height: 42px;
+	.main{
+		height:2000px;
+	}
+	.home-menu-title{
+		font-size: 26px;
+	}
+	li{
+		font-size: 24px;
 	}
 	.main{
-		height:auto;
+		padding-bottom: 70px;
+	}
+	.introduction{
+		margin-bottom: 140px;
+	}
+	h3{
+		font-size: 28px;
+	}
+	.introduction img{
+		width:120px;
+		height: 120px;
 	}
 }
