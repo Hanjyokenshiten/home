@@ -1,6 +1,16 @@
 @charset "utf-8";
 @media screen and (max-width:670px){
 	.navi, .menu{
-		height:80px;
+		height:80px ;
+	}
+	.description p{
+		font-size: 30px;
+	}
+	.menu a{
+		line-height: 80px;
+		font-size: 30px;
+	}
+	body{
+		
 	}
 }
