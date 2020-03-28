@@ -11,12 +11,23 @@
 		line-height: 80px;
 		font-size: 26px;
 	}
-	h3,.home-menu-title{
+	.home-menu-title{
 		font-size: 26px;
 	}
 	li{
-		font-size: 20px;
+		font-size: 24px;
 	}
 	.main{
-		padding-bottom:150px;
+		padding-bottom: 70px;
+	}
+	.introduction{
+		margin-bottom: 140px;
+	}
+	h3{
+		font-size: 28px;
+	}
+	.introduction img{
+		width:120px;
+		height: 120px;
+	}
 }
