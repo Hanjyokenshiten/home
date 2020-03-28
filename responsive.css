@@ -19,7 +19,6 @@
 	}
 	.main{
 		padding-bottom: 70px;
-		height:auto;
 	}
 	.introduction{
 		margin-bottom: 140px;
@@ -30,8 +29,5 @@
 	.introduction img{
 		width:120px;
 		height: 120px;
-	}
-	body{
-height:auto;
 	}
 }
