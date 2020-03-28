@@ -3,12 +3,13 @@
 	.navi, .menu{
 		height:80px ;
 	}
+	.description p{
+		font-size: 30px;
+		line-height: 42px;
+	}
 	.menu a{
 		line-height: 80px;
 		font-size: 26px;
-	}
-	.main{
-		height:2000px;
 	}
 	.home-menu-title{
 		font-size: 26px;
@@ -17,10 +18,11 @@
 		font-size: 24px;
 	}
 	.main{
+		height:2000px;
 		padding-bottom: 70px;
 	}
 	.introduction{
-		margin-bottom: 140px;
+		margin-bottom: 90px;
 	}
 	h3{
 		font-size: 28px;
