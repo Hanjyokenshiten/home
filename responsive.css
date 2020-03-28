@@ -3,4 +3,12 @@
 	.navi, .menu{
 		height:80px ;
 	}
+	.menu a{
+		line-height: 80px;
+		font-size: 26px;
+	}
+	.description p{
+		font-size: 30px;
+		line-height: 42px;
+	}
 }
