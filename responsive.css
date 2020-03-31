@@ -21,7 +21,7 @@
 		height:350px;
 	}
 	.main{
-		height:2300px;
+		height:3400px;
 	}
 	.description p{
 		font-size: 30px;
@@ -50,6 +50,9 @@
 	.introduction-list ul {
 		width:90%;
 		padding-left:0;
+	}
+	.pic{
+		margin-top:500px;
 	}
 	.home-card{
     		width:100%;
