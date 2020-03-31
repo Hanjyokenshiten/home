@@ -4,9 +4,10 @@
     background-size:cover;
 }
 .main{
-    height:1800px;
+    height:auto;
     background-color:#F8F9F9;
     color:#333;
+    padding-bottom:50px;
 }
 .container p{
     font-size:20px;
