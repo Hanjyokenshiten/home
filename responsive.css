@@ -2,6 +2,7 @@
 @media screen and (max-width:670px){
 	.navi, .menu{
 		height:80px ;
+		display:none;
 	}
 	header{
 		position: fixed;
