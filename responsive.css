@@ -44,7 +44,8 @@
 		height: 120px;
 	}
 	.introduction-list ul {
-		width:90%;	
+		width:90%;
+		padding-left:0;
 	}
 	footer p{
 		width:90%;
