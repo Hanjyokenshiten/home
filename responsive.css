@@ -20,6 +20,9 @@
 		background-position:25%;
 		height:350px;
 	}
+	.main{
+		height:2300px;
+	}
 	.description p{
 		font-size: 30px;
 		line-height: 42px;
