@@ -76,7 +76,7 @@ header i{
 }
 .fixed {
   position:sticky;
-  width: 960px;
+  width: 100%;
   top: 0;
   z-index: 1000;
 }
