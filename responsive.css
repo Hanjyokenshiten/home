@@ -43,6 +43,9 @@
 		width:120px;
 		height: 120px;
 	}
+	.introduction-list ul {
+		width:90%;	
+	}
 	footer p{
 		width:90%;
 		margin:0 auto;
