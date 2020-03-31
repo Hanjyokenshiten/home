@@ -35,7 +35,8 @@
 		font-size: 26px;
 	}
 	li{
-		font-size: 24px;
+		font-size:16px;
+		margin-top:18px;
 	}
 	.introduction{
 		margin-bottom: 150px;
@@ -52,7 +53,7 @@
 		padding-left:0;
 	}
 	.pic{
-		margin-top:500px;
+		margin-top:480px;
 	}
 	.home-card{
     		width:100%;
