@@ -4,6 +4,9 @@
 		height:80px ;
 		display:none;
 	}
+	body{
+		padding-top:91px;
+	}
 	header{
 		position: fixed;
     		z-index: 1000;
