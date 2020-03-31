@@ -3,6 +3,22 @@
 	.navi, .menu{
 		height:80px ;
 	}
+	header{
+		position: fixed;
+    		z-index: 1000;
+    		top:0;
+    		width:100%;
+	}
+	.header-title{
+		display:none;
+	}
+	header i{
+		display:block;	
+	}
+	.top{
+		background-position:25%;
+		height:350px;
+	}
 	.description p{
 		font-size: 30px;
 		line-height: 42px;
@@ -29,5 +45,10 @@
 	.introduction img{
 		width:120px;
 		height: 120px;
+	}
+	footer p{
+		width:90%;
+		margin:0 auto;
+		font-size:12px;
 	}
 }
